@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: joaopcr/gatsby-course
+  repo: joaocartier/gatsby-course
   branch: master
   site_domain: https://joaocartier.netlify.com/
 
