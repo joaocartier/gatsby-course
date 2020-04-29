@@ -1,9 +1,10 @@
 ---
-date: 2015-01-03 05:54:23
-title: DEMOLIDOR IFSUL
+title: Post 1
 description: And I'm not sure about the universe.
+date: "2015-01-03T05:54:23.000Z"
 category: SIEDLER
-background: "blue"
+background: blue
+thumbnail: assets/img/mountains.jpg
 ---
 
 # Lorem ipsum
